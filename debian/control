@@ -1,7 +1,7 @@
-Source: deepin-system-monitor
+Source: velora-system-monitor
 Section: utils
 Priority: optional
-Maintainer: Deepin Packages Builder <packages@deepin.com>
+Maintainer: Lingmo OS Team <team@lingmo.org>
 Build-Depends:
  debhelper-compat (= 11),
  cmake,
@@ -27,8 +27,8 @@ Build-Depends:
  libgtest-dev,
  libgmock-dev,
  libpolkit-qt6-1-dev
-Standards-Version: 4.6.2
-Homepage: https://github.com/linuxdeepin/deepin-system-monitor
+Standards-Version: 4.5.0
+Homepage: https://github.com/LingmoOS/velora-system-monitor
 
 Package: deepin-system-monitor
 Architecture: any
